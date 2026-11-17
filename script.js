@@ -1,7 +1,7 @@
 "use strict";
 
 /* ===== Settings: change the WhatsApp number here (country code, no + or spaces) ===== */
-const WHATSAPP_NUMBER = "2348012345678";
+const WHATSAPP_NUMBER = "2347069124063";
 
 /* ===== Property data ===== */
 const IMG = (id) => `https://images.unsplash.com/${id}?auto=format&fit=crop&w=1000&q=80`;
